@@ -1,0 +1,5 @@
+a = "Taran"
+b = "jot"
+c = "kaur"
+d = a+b+c
+print(d)

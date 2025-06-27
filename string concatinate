@@ -1,0 +1,3 @@
+age = 20
+me = f"my name is taran, I am{age}"
+print(me)

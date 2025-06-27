@@ -1,0 +1,5 @@
+#variables
+a=12
+b=22
+#addition
+print("addition:" , a+b)
